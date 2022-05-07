@@ -13,6 +13,9 @@
 #### 1.2.3 Undersampling
 #### 1.2.4 Oversampling
 ## 2. Absolute and relative data
+### 2.1 Percentages
+### 2.2 Coefficients
+### 2.3 Rate
 ## 3. Frequency distribution
 ## 4. Position and dispersion measures
 ## 5. Statistical distributions 
