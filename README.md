@@ -18,6 +18,12 @@
 ### 2.3 Rate
 ## 3. Frequency distribution
 ## 4. Position and dispersion measures
+### 4.1 Mean, median and mode
+### 4.2 Arithmetic, geometric, harmonic and quadratic mean
+### 4.3 Quartiles and percentiles
+### 4.4 Variance, standard deviation and coefficient of variation
+### 4.5 Evaluating machine learning algorithms
+### 4.6 Feature selection with variance
 ## 5. Statistical distributions 
 ## 6. Probability
 ## 7. Confidence intervals and hypothesis tests
