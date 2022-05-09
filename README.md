@@ -33,7 +33,7 @@
 #### 5.1.5 Bernoulli
 #### 5.1.6 Binomial
 #### 5.1.7 Poisson
-### 5.2 Naive Bayes (Bernoulli and Multnomial
+### 5.2 Naive Bayes (Bernoulli and Multnomial)
 ### 5.3 Standardization + KNN
 ### 5.4 Biased data processing
 ### 5.5 Initialization of weights in neural networks
