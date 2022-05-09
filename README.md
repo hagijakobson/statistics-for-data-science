@@ -25,6 +25,19 @@
 ### 4.5 Evaluating machine learning algorithms
 ### 4.6 Feature selection with variance
 ## 5. Statistical distributions 
+### 5.1 Distributions
+#### 5.1.1 Normal
+#### 5.1.2 Gamma
+#### 5.1.3 Exponential
+#### 5.1.4 Uniform
+#### 5.1.5 Bernoulli
+#### 5.1.6 Binomial
+#### 5.1.7 Poisson
+### 5.2 Naive Bayes (Bernoulli and Multnomial
+### 5.3 Standardization + KNN
+### 5.4 Biased data processing
+### 5.5 Initialization of weights in neural networks
+### 5.6 Normality test (Parametric and non-parametric statistics)
 ## 6. Probability
 ## 7. Confidence intervals and hypothesis tests
 ## 8. Correlation and regression
